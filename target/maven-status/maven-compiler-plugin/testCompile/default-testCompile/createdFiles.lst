@@ -1,0 +1,4 @@
+com\restapiexample\dummy\allemployeeinfo\AllEmployeeCRUDTest.class
+com\restapiexample\dummy\cucumber\EmployeeStepDefs.class
+com\restapiexample\dummy\DummyRestRunner.class
+com\restapiexample\dummy\testbase\TestBase.class

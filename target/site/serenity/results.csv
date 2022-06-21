@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"All employee CRUD test","This will create a new employee","FAILURE","2022-06-21T23:26:03.142+01:00[Europe/London]","0.0","3.36"
+"All employee CRUD test","Verify if the employee was added to the application employee_name = Mona Singh","ERROR","2022-06-21T23:26:06.517+01:00[Europe/London]","0.0","0.99"
+"All employee CRUD test","Update the employee information and verify the updated information for ID = 9658","SUCCESS","2022-06-21T23:26:07.557+01:00[Europe/London]","0.0","0.71"
+"All employee CRUD test","Delete the employee and verify if the employee is deleted! for ID = 9658","SUCCESS","2022-06-21T23:26:08.269+01:00[Europe/London]","0.0","0.69"
